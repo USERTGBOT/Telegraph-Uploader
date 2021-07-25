@@ -85,8 +85,8 @@ async def home(client, message):
         InlineKeyboardButton('Close', callback_data='close')
     ],
     [
-        InlineKeyboardButton('Our Channel', url='http://telegram.me/ultramaxupdates'),
-        InlineKeyboardButton('𝑫𝑬𝑽𝑳𝑶𝑷𝑬𝑹', url='https://t.me/pranavjha1')
+        InlineKeyboardButton('Our Channel', url='http://telegram.me/M_STER_TECH'),
+        InlineKeyboardButton('𝑫𝑬𝑽𝑳𝑶𝑷𝑬𝑹', url='https://t.me/FLIQ_YT')
     ]]
   reply_markup = InlineKeyboardMarkup(buttons)
   await Tgraph.send_message(
@@ -97,7 +97,7 @@ im a telegraph Uploader That Can Upload Photo, Video And Gif
         
 Simply send me photo, video or gif to upload to Telegra.ph
         
-Made With ♥️ By @ultramax_ping</b>""",
+Made With ♥️ By @M_STER_TECH</b>""",
         reply_markup=reply_markup,
         parse_mode="html",
         reply_to_message_id=message.message_id
@@ -110,7 +110,7 @@ async def help(client, message):
         InlineKeyboardButton('Close', callback_data='close')
     ],
     [
-        InlineKeyboardButton('Our Channel', url='http://telegram.me/ultramaxupdates')
+        InlineKeyboardButton('Our Channel', url='http://telegram.me/M_STER_TECH')
     ]]
   reply_markup = InlineKeyboardMarkup(buttons)
   await Tgraph.send_message(
