@@ -9,7 +9,7 @@
         "Benchamxd"
     ],
     "website": "",
-    "repository": "https://github.com/pranavjha21/Telegraph-Uploader/",
+    "repository": "https://github.com/USERTGBOT/Telegraph-Uploader/",
     "success_url": "https://telegram.dog/lamao",
     "env": {
         "TG_BOT_TOKEN": {
